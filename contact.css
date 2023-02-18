@@ -37,13 +37,13 @@ h2{
 }
 
 #locat{
-    background: url('/location-pin.png') no-repeat 10px;
+    background: url('location-pin.png') no-repeat 10px;
 }
 
 #phone{
-     background: url('/phone-book.png') no-repeat 10px;
+     background: url('phone-book.png') no-repeat 10px;
 }
 
 #mail{
-    background: url('/gmail.png') no-repeat 10px;
+    background: url('gmail.png') no-repeat 10px;
 }
