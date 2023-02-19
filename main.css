@@ -175,9 +175,9 @@
     
     
     .box-ele1 img {
-        margin-left: 15px;
-        width: 200px;
-        height: 200px;
+        margin-left: 12px;
+        width: 170px;
+        height: 160px;
     }
     
     .box-ele2 {
@@ -219,6 +219,15 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+    }
+
+    .box2-e>p{
+        font-size: 10px;
+        text-align: center;
+    }
+
+    .box2-e:nth-child(3){
+        display: none;
     }
     
     .box2-e>img {
