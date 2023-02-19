@@ -42,15 +42,15 @@ iframe{
 }
 
 #locat{
-    background: url('location-pin.png') no-repeat 10px;
+    background: url('IMG/location-pin.png') no-repeat 10px;
 }
 
 #phone{
-     background: url('phone-book.png') no-repeat 10px;
+     background: url('IMG/phone-book.png') no-repeat 10px;
 }
 
 #mail{
-    background: url('gmail.png') no-repeat 10px;
+    background: url('IMG/gmail.png') no-repeat 10px;
 }
 
 
@@ -99,14 +99,14 @@ iframe{
     }
 
     #locat{
-        background: url('location-pin.png') no-repeat 5px;
+        background: url('IMG/location-pin.png') no-repeat 5px;
     }
 
     #phone{
-        background: url('phone-book.png') no-repeat 5px;
+        background: url('IMG/phone-book.png') no-repeat 5px;
     }
 
     #mail{
-        background: url('gmail.png') no-repeat 5px;
+        background: url('IMG/gmail.png') no-repeat 5px;
     }
 }
