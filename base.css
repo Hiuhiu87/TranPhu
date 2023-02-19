@@ -143,6 +143,11 @@ html{
     text-align: center;
 }
 
+.box-ele1>img{
+    width: 500px;
+    height: 300px;
+}
+
 img{
     border-radius: 10px;
 }
@@ -209,10 +214,10 @@ img{
     /* nav */
     
     .navigation{
-        width: 767px;
+        width: 100%px;
         line-height: 70px;
         background-color: white;
-        padding: 0 100px;
+        padding: 0 40px;
         border-bottom-right-radius: 15px;
         border-bottom-left-radius: 15px ;
         box-shadow: 0 3px 3px gray;
@@ -233,8 +238,8 @@ img{
     .navigation>ul>li>a{
         color: #000054;
         text-decoration: none;
-        font-size: 25px;
-        padding: 22px 25px;
+        font-size: 15px;
+        padding: 10px 15px;
     }
     
     .navigation a:hover{
@@ -252,9 +257,9 @@ img{
         position: absolute;
         left: 0;
         background-color: #070758;
-        min-width: 160px;
+        min-width: 110px;
         box-shadow: 0px 5px 16px 0px rgba(0, 0, 0, 0.2);
-        padding: 12px 17px;
+        padding: 9px 13px;
         z-index: 1;
         list-style: none;
     }
@@ -284,6 +289,11 @@ img{
         text-align: center;
     }
     
+    .box-ele1>img{
+        width: 250px;
+        height: 100;
+    }
+
     img{
         border-radius: 10px;
     }
