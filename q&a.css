@@ -18,4 +18,8 @@ h2{
         margin-bottom: 9px;
         border-top-left-radius: 15px;
     }
+
+    fieldset textarea{
+        max-width: 1500px;
+    }
 }
