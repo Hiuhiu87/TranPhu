@@ -127,14 +127,15 @@
         flex-direction: column;
     }
 
-    .all-content p{
-        font-size: 5px;
+    .box-ele1>p{
+        font-size: 14px;
     }
     
     .content1, .content2 {
         display: flex;
         justify-content: space-between;
         margin-bottom: 25px;
+        height: 295px;
     }
     
     .box {
@@ -155,7 +156,7 @@
     
     .box1 h3 {
         background-color: #070758;
-        padding: 20px;
+        padding: 15px;
         margin: 0 0 10px 0;
         box-shadow: 0 0 10px gainsboro;
     }
@@ -175,18 +176,23 @@
     
     .box-ele1 img {
         margin-left: 15px;
-        width: 70px;
+        width: 200px;
+        height: 200px;
     }
     
     .box-ele2 {
-        display: flex;
+        display: none;
         justify-content: space-around;
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
     }
     
     .box-ele2 img{
         margin-left: 15px;
         width: 70px;
+    }
+
+    .box2-e>p{
+        font-size: 7px;
     }
     
     /*Content-Phần Thông Tin Phụ */
