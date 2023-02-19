@@ -148,7 +148,7 @@ img{
 }
 
 
-@media screen and (max-width: 767) {
+@media screen and (max-width: 767px) {
     .container{
         max-width: 767px;
         margin: 0 auto;
@@ -209,7 +209,7 @@ img{
     /* nav */
     
     .navigation{
-        width: 1500px;
+        width: 767px;
         line-height: 70px;
         background-color: white;
         padding: 0 100px;
