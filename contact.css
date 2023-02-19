@@ -15,6 +15,11 @@ h2{
     margin: 0 auto;
 }
 
+iframe{
+    width: 1000px;
+    height: 500px;
+}
+
 .address{
     display: flex;
     flex-direction: column;
@@ -64,6 +69,11 @@ h2{
         width: 400px;
         height: 400px;
         margin: 0 auto;
+    }
+
+    iframe{
+        width: 400px;
+        height: 400px;
     }
 
     .address{

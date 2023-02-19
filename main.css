@@ -119,6 +119,8 @@
 
 /* footer */
 
+
+
 @media screen and (max-width: 767px){
     .all-content {
         display: flex;
@@ -182,7 +184,7 @@
     }
     
     .box-ele2 p {
-        width: 120px;
+        width: 70px;
         margin-left: 28px;
     }
     
@@ -197,15 +199,16 @@
         padding: 20px;
         margin: 0;
         box-shadow: 0 0 10px gainsboro;
+        font-size: 10px;
     }
     
     .boxtt>img {
-        width: 140px;
+        width: 90px;
     }
     
     .boxtt>p{
-        width: 120px;
-        font-size: 20px;
+        width: 50px;
+        font-size: 210px;
     }
     
     .box2-e {
@@ -221,7 +224,7 @@
     }
     
     .box2-e>p {
-        font-size: 20px;
+        font-size: 10px;
     }
     
     .all-content h3 {
