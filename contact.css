@@ -84,6 +84,7 @@ iframe{
         height: 400px;
         margin-left: 20px;
         margin-top: 40px;
+        margin-bottom: 10px;
         /* position: relative;
         top: 60px;
         left: 20px; */
@@ -95,7 +96,7 @@ iframe{
 
     .address>ul>li{
         padding: 50px;
-        font-size: 28px;
+        font-size: 21px;
     }
 
     #locat{
