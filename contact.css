@@ -58,11 +58,12 @@ iframe{
     
     h2{
         background-color: #070758;
-        padding: 20px;
+        padding: 10px;
         box-shadow: 0 0 8px gray;
         color: white;
         margin-bottom: 9px;
         border-top-left-radius: 15px;
+        font-size: 17px;
     }
 
     .maps{
