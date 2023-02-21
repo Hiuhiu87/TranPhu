@@ -26,6 +26,13 @@ em{
     font-size: 28px ;
 }
 
+iframe{
+    display: block;
+    margin: 0 auto;
+    width: 900px;
+    height: 600px;
+}
+
 @media screen and (max-width: 767px) {
     h2{
         background-color: #070758;
